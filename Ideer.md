@@ -1,18 +1,18 @@
 # Ideer
-## Riddarrustninges utväckling Sverige
+## ~~Riddarrustninges utväckling Sverige~~
 	Plats: Slottet/ kassärn
 	Ide: placera rustningar i åldersårdning längsmed en lämplg koridor
-## Konstvärk
+## ~~Konstvärk~~
 	Plats: Storatorget/ Sigmatorget
 	Ide: Gör ditt eget konstverk på en stor öppen yta. 
-## Gräva sig in i graven
+## ~~Gräva sig in i graven~~
 	Plats: Anundshög
-## Bygga vikingaskepp
+## __(<u>Bygga vikingaskepp<u>)__
 	Plats: Skeppssättning Anundshög
 	Ide: leta efter delar runt om i området och bygg ett vikingaskepp vid skeppsättningen
 
 	Mer info: Skepp endast metaforiska
-## Gammla skepp som fraktar mettaler
+## ~~Gammla skepp som fraktar mettaler~~
 	Plats: Sten piren
 	Ide: Lasta på varor på skepp under en begränsad tid. Se till att rätt skepp får rätt saker.
 
